@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Json Server
+
+Create a new project and put the next script in package.json "start": "json-server --watch db.json --port 3001" with the database
+
 ## Available Scripts
 
 In the project directory, you can run:
