@@ -1,0 +1,60 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "galleta oreo",
+      "categoria": "galletas",
+      "sabor": "chocolate",
+      "precio": 1500,
+      "estado": true
+    },
+    {
+      "id": 2,
+      "nombre": "chocorramo",
+      "categoria": "pastel",
+      "sabor": "chocolate",
+      "precio": 2500,
+      "estado": true
+    },
+    {
+      "id": 3,
+      "nombre": "doritos",
+      "categoria": "fritos",
+      "sabor": "queso",
+      "precio": 1200,
+      "estado": true
+    },
+    {
+      "id": 5,
+      "nombre": "gala",
+      "categoria": "pastel",
+      "sabor": "vainilla",
+      "precio": 1000,
+      "estado": true
+    },
+    {
+      "nombre": "chocoso",
+      "categoria": "pastel",
+      "sabor": "chocolate",
+      "precio": "1500",
+      "estado": true,
+      "id": 6
+    },
+    {
+      "nombre": "maduritos",
+      "categoria": "fritos",
+      "sabor": "maduro",
+      "precio": "1000",
+      "estado": true,
+      "id": 7
+    },
+    {
+      "nombre": "Gansito",
+      "categoria": "pastel",
+      "sabor": "chocolate",
+      "precio": "3000",
+      "estado": true,
+      "id": 8
+    }
+  ]
+}
